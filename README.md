@@ -13,6 +13,8 @@ The goal of this project is to build a system that can:
   - If time permits, extend the system to recognize static word signs and phrases from ASL.
   - Further expansion could include dynamic hand movements required for certain signs.
 
+![Stock photo from Getty Images displaying the ASL alphabet](https://d.newsweek.com/en/full/1394686/asl-getty-images.jpg)
+
 ## Current State of the Project
 Currently in the pre-planning and data collection phase
 
