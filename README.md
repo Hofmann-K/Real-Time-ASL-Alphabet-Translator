@@ -1,4 +1,4 @@
-# Real-Time-ASL-Alphabet-Translator
+# Real Time American Sign Language Alphabet Translator
 
 ## Introduction
 The use of sign language as a mode of communication is vital for millions of people worldwide who are deaf or hard of hearing. American Sign Language (ASL) is one of the most widely used types of sign language in the United States. One of the core challenges in bridging the communication gap between the deaf community and non-signers is the lack of real-time translation tools as sign language is not taught in elementary schools and high schools alike making it very difficult for singers to be able to universally communicate with everyone.
